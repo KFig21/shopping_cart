@@ -43,7 +43,7 @@ function App() {
   const cartTotalItems = cartItems.map((item) => parseInt(item.qty)).reduce((a, c) => a + c, 0);
   
   return (
-    <Router>
+    <Router basename={'shopping_cart'}>
       <div className="App">
         <Nav cartTotalItems={cartTotalItems}/>
         <Switch>
