@@ -33,3 +33,7 @@ Ludwig Favre - www.ludwigfavre.com/portfolio_page/new-york-basketball-courts/ <b
 Julian Love - www.JulianLove.com/Personal/Basketball <br>
 Craig Augustine - www.CraigAusgustinePhoto.com <br>
 Kim Fetrow - www.shootproof.com/blog/basketball-photography-tips/ <br>
+
+-----------------------------
+
+<h3>Thanks for checking out my project! Any && all feedback is appreciated!</h3>
