@@ -5,7 +5,7 @@
 
 
 <h3>Summary</h3>
-<p>HoopShop is a mock storefront page that was made for React section of the The Odin Project javascript curriculum. The goal of this project was to learn how to use BrowserRouter, Routes, Link, & Switch in React by creating a storefront that has multiple pages for you to navigate while maintaing the state of the app.</p>
+<p>HoopShop is a mock storefront page that was made for React section of the <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/shopping-cart" target="_blank" rel="noopener noreferrer">The Odin Project's</a> javascript curriculum. The goal of this project was to learn how to use BrowserRouter, Routes, Link, & Switch in React by creating a storefront that has multiple pages for you to navigate while maintaing the state of the app.</p>
 
 <h3>Features:</h3>
 
